@@ -1,7 +1,8 @@
 **WEATHER FORECAST APP**
+```
 A simple weather forecast application built using Python and Tkinter. This app fetches real-time weather data from the OpenWeatherMap API
 and displays it in a user-friendly interface.
-
+```
 ![Screenshot (7)](https://github.com/Kumkum8/WeatherApp/assets/168075249/91f39405-4fb8-48ad-a895-83c8266f87a4)
 
 
