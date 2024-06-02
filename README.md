@@ -3,7 +3,7 @@ A simple weather forecast application built using Python and Tkinter. This app f
 and displays it in a user-friendly interface.
 
 ![Screenshot (7)](https://github.com/Kumkum8/WeatherApp/assets/168075249/b5f7c086-e1c5-4dfc-acf0-674c3b4be19d)
-!(https://github.com/Kumkum8/WeatherApp/assets/168075249/2050ea1f-00c7-4da7-bf33-737ad67f334d)
+
 
 # Features:
 1.Enter the name of a city to get the current weather.
