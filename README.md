@@ -31,6 +31,16 @@ and displays it in a user-friendly interface.
 3.Run the application:
    python app.py
 ```
+
+**API Key**
+```
+This app uses the OpenWeatherMap API. You need an API key to fetch weather data.
+
+-Go to OpenWeatherMap and sign up for an API key.
+-Replace your_api_key in app.py with your actual API key:
+-API_key = "your_api_key"
+```
+
 # Usage
 ```
 1.Open the app.
