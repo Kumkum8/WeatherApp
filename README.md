@@ -2,22 +2,26 @@
 A simple weather forecast application built using Python and Tkinter. This app fetches real-time weather data from the OpenWeatherMap API
 and displays it in a user-friendly interface.
 
-![Screenshot (7)](https://github.com/Kumkum8/WeatherApp/assets/168075249/b5f7c086-e1c5-4dfc-acf0-674c3b4be19d)
+![Screenshot (7)](https://github.com/Kumkum8/WeatherApp/assets/168075249/91f39405-4fb8-48ad-a895-83c8266f87a4)
+
 
 
 # Features:
+```
 1.Enter the name of a city to get the current weather.
 2.Displays temperature, weather description, and an icon representing the weather condition.
 3.Simple and intuitive Tkinter-based GUI.
-
+```
 # Dependencies
+```
 -Python 3.x
 -requests
 -tkinter
 -pillow
 -ttkbootstrap
-
+```
 # Installation
+```
 1.Clone the repository:
    git clone https://github.com/Kumkum8/WeatherApp.git
    cd WeatherApp
@@ -26,6 +30,12 @@ and displays it in a user-friendly interface.
 
 3.Run the application:
    python app.py
-
+```
+# Usage
+```
+1.Open the app.
+2.Enter the name of a city in the input field.
+3.Click the "Search" button to fetch the weather information.
+```
 # Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
